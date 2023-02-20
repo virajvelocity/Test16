@@ -1,0 +1,43 @@
+ Car Insurace Test Scenarios
+
+1.Verify Car Number field, View Price field and Proceed without Car Number Field should be enabled
+2.Verify Selection of Cities are possible or not
+3.Verify after selection of Perticular City other cities should be disabled
+4.Verify after selection of Perticular City Registration No Fields should be enabled only
+5.Verify After selection of Perticular Registration No Car brands should be displayed and Clickable
+6.Verify Once you Click Others option Search Field should be displyed with AutoSuggestion
+7.Verify Once you Select any perticlar Car Various Car model associated with car should be displayed
+8.Verify Once you Select any perticlar Car model whose fuel type should be enabled and displayed 
+9.Verify Once you Select any perticlar Car Fuel Type All Varient,Automatic and manual Field should be enabled
+10.Verify Once you Select any perticlar Car Fuel Type by default All Varient should be displayed
+11.Verify All Varient,Automatic and manual Field should be displayed with various Engine Capacity 
+12.Validate Once selection of Engine Capacity Car Registration Year should be displayed
+13.Validate View Price 
+14.Validate Tollfree numbers are correct and displayed or not
+
+
+
+
+===================================================================================================
+Interview IMP questions related to project
+
+1. Total modules: 15 to 20 --> 15
+
+2. Pom class in each module: 20-40 --> 30
+
+3. Total pom classes in project: 400 to 600 -->450
+
+4. Test cases in each module: 70-100 --> 80 
+
+5. Test cases in each Test class: 5 to 10 (8 avg) -->8
+
+6. Test classes in each module: 10-20 --> 10
+
+7. Test classes in project : 10* 15 : 150 to 200
+
+8. Total no of test script/testcase in project: 1600 to 2000 test scripts in project
+
+9. Test script per day: depends on complexity of Test script (1 to 4) (avg 2)
+
+10.test script per month (20 working days): avg (40 )
+
